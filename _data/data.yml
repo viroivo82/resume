@@ -114,62 +114,54 @@ experiences:
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+        - name: Six Sigma Green Belt
+          start: 2012
+          end: 2023
+          organization: General Electric
+          credentialid: 
+          credentialurl: 
+          credentialname: 
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            Successfully completed the GE Six Sigma Green Belt certification, 
+            demonstrating expertise in process improvement methodologies and 
+            problem-solving techniques within the industrial domain. This 
+            rigorous program equipped me with a comprehensive understanding 
+            of Lean Six Sigma principles, statistical analysis, and project 
+            management methodologies. Through practical training and hands-on 
+            experience, I honed skills in identifying inefficiencies, analyzing 
+            data-driven solutions, and implementing process enhancements that 
+            drive operational efficiency and quality improvement initiatives.
 
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            During this certification, I actively contributed to real-world 
+            projects, applying DMAIC (Define, Measure, Analyze, Improve, Control) 
+            methodologies to streamline processes, optimize workflows, and deliver 
+            tangible results in reducing defects, enhancing productivity, and 
+            maximizing organizational performance. The acquired knowledge and 
+            practical experience gained from the GE Six Sigma Green Belt 
+            certification empowered me to collaborate effectively with cross-functional 
+            teams, lead process improvement initiatives, and drive impactful changes 
+            that align with organizational objectives, delivering measurable value 
+            and sustainable outcomes.
+       
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Javascript & TypeScript
+        level: 80%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: .NET & C#
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Angular
+        level: 90%
+
+      - name: HTML5 & CSS
+        level: 85%
+
+      - name: Python
+        level: 25%
+
+      - name: SQL
+        level: 50%
