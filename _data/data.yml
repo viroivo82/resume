@@ -83,12 +83,14 @@ experiences:
             design, leveraging the power of Azure's Application Insights and OpenTelemetry. This initiative
             aimed to streamline and enhance the monitoring and logging capabilities within our software
             ecosystem.
-          - Utilized TypeScript/JavaScript, C#, Angular, SQL, and PowerShell to engineer and develop tools
-            for Health Catalyst's data warehousing system.
+          - Leveraged C#, TypeScript/JavaScript, Angular, SQL, and PowerShell to engineer tools for Health 
+            Catalyst's data warehousing system.
           - Created a web-based data catalog application in the Enterprise Data Warehouse (EDW), enabling
             users to search, browse, and analyze data.
-          - Developed a web interface and API for a data entry application, allowing clients to enter data
-            directly into the EDW.
+          - Developed a RESTful API and web interface for a data entry application, facilitating direct 
+            data entry into the Enterprise Data Warehouse (EDW).
+          - Implemented Azure CI/CD pipelines and deployed applications on IIS, ensuring efficient deployment 
+            and continuous integration.  
           - Provided ongoing support for applications and services owned by the Platform team.
       - role: Software Test Engineer
         time: September 2014 - November 2019
